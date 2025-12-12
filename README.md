@@ -16,7 +16,7 @@ This project demonstrates UI precision, clean code structure, accessibility, and
 
 ### **1. Clone the repository**
 ```sh
-git clone https:https://github.com/chinmaygupta0/frontend-intern-assignment
+git clone https://github.com/chinmaygupta0/frontend-intern-assignment
 cd frontend-intern-assignment
 ```
 
