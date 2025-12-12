@@ -6,17 +6,17 @@ This project demonstrates UI precision, clean code structure, accessibility, and
 ---
 
 ## 🔗 Live Demo  
-👉 *https://frontend-intern-assignment-eta.vercel.app/*
+👉 *https://frontend-intern-assignment-zeta.vercel.app/*
 
 ## 📦 GitHub Repository  
-👉 *https://github.com/Mradull/frontend-intern-assignment*
+👉 *https://github.com/chinmaygupta0/frontend-intern-assignment*
 
 ---
 # 🛠 Setup Instructions
 
 ### **1. Clone the repository**
 ```sh
-git clone https://github.com/your-username/frontend-intern-assignment.git
+git clone https:https://github.com/chinmaygupta0/frontend-intern-assignment
 cd frontend-intern-assignment
 ```
 
